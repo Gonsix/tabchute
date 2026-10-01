@@ -1,0 +1,20 @@
+{
+  "name": "tabchute",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "bun run scripts/build.ts --watch",
+    "build": "bun run scripts/build.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "bun test",
+    "check": "bun run typecheck && bun test && bun run build",
+    "test:browser": "bun run scripts/browser-check.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/chrome": "latest",
+    "typescript": "latest",
+    "@playwright/test": "latest"
+  }
+}

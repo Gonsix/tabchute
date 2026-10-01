@@ -1,0 +1,25 @@
+# Dependencies and generated extension bundles
+node_modules/
+dist/
+
+# Test output and caches
+test-results/
+playwright-report/
+coverage/
+.cache/
+*.tsbuildinfo
+__pycache__/
+*.py[cod]
+
+# Local secrets (keep shareable example files)
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Local logs, editor files and OS metadata
+*.log
+.idea/
+*.swp
+*.swo
+.DS_Store
