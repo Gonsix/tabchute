@@ -6,7 +6,7 @@ Save a collection of websites and open them together in a fresh browser tab grou
 
 ## Demo
 
-[Watch the TabChute demo](docs/demo/tabchute-demo.mp4).
+https://github.com/user-attachments/assets/98b72bd2-4b7d-4679-a5ca-f60f5ae1ef3b
 
 ## Local installation
 

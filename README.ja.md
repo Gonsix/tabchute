@@ -6,7 +6,7 @@
 
 ## デモ
 
-[TabChuteのデモ動画を見る](docs/demo/tabchute-demo.mp4)。
+https://github.com/user-attachments/assets/98b72bd2-4b7d-4679-a5ca-f60f5ae1ef3b
 
 ## ローカルでインストール
 
