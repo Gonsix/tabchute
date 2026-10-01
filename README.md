@@ -1,6 +1,12 @@
 # TabChute
 
-Save a collection of websites and open them together in a fresh browser tab group. Built for desktop Chrome and Brave with Manifest V3, TypeScript and Bun.
+**English** | [日本語](README.ja.md)
+
+Save a collection of websites and open them together in a fresh browser tab group. Built for desktop Chrome with Manifest V3, TypeScript and Bun.
+
+## Demo
+
+[Watch the TabChute demo](docs/demo/tabchute-demo.mp4).
 
 ## Local installation
 
